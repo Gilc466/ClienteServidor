@@ -8,7 +8,7 @@ Diego Mendes Rodrigues
  
 import socket
  
-HOST = '127.0.0.1'      # Endereco IP do Servidor
+HOST = '192.168.2.107'      # Endereco IP do Servidor
 PORT = 50000             # Porta que o Servidor está
  
 # Criando a conexão
